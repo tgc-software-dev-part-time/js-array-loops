@@ -1,12 +1,13 @@
-# Lesson - {{Enter Title}}
+# Lesson - Array and Loops
 
 ## Lesson Objectives
 
 By the end of this lesson, students would be able to:
 
-- {{objective 1}}
-- {{objective 2}}
-- {{objective 3}}
+- Initialize an array.
+- Retrieve elements in an array using index.
+- Add new element to an array.
+- Iterate an array using for-loop
 
 ## Resources
 
@@ -18,21 +19,14 @@ By the end of this lesson, students would be able to:
 
 > This is a recommended lesson plan. Instructors are free to re-arrange the flow.
 
-Weekday: 
-- 7:30PM to 10PM
-
-Weekend: 
-- 10AM to 12:30PM or 
-- 2PM to 4:30PM
-
 |Duration|Agenda|Delivery Method|Remarks|
 |-|-|-|-|
 |10 mins|Walk-in & Hook|Lecture|Intrigue students' curiosity about today's topic while giving buffer time for students who are late.|
-|30 mins|Part 1| Lecture with Optional Hands-on Activity| This is the only slot instructor may give full 30 mins lecture. This slot may be used to answer questions from previous exit ticket.|
-|30 mins|Part 2| Lecture with Mandatory Hands-on or Group Activity|Instructor must not lecture more than 10 mins|
+|40 mins|Part 1| Code Along | Initializing an array|
+|40 mins|Part 2| Code Along | Looping an array|
 |10 mins|Break| |The essence of the lesson must be delivered before this break.|
-|30 mins|Part 3| Lecture with Mandatory Hands-on or Group Activity|Instructor must not lecture more than 10 mins. Draw connections for this part to Part 1 and 2 for better retention.|
-|40 mins|Q&A| Discussion | Group students in pair to share one key learnings of the day. Encourage students to formulate questions and write them down as exit ticket. Instructors may start to answer those questions. Left over questions may be followed up in next lesson.|
+|50 mins|Part 3 & Homework| Practical | |
+
 
 Teaching Principles:
 - Students have limited bandwidth after work. Deliver the most important part of the lesson within the first 1 hour.
